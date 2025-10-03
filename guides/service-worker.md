@@ -1,0 +1,6 @@
+# Service Worker
+
+### Update: implement stale-while-revalidate caching in service worker
+- **Timestamp**: 2025-10-03 17:41:57
+- **Note**: Provided offline-first experience with background cache updating.
+
