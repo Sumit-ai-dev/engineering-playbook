@@ -1,0 +1,6 @@
+# Csp Headers
+
+### Update: enforce strict Content-Security-Policy script-src directives
+- **Timestamp**: 2025-11-12 15:29:40
+- **Note**: Hardened web application against reflected and stored XSS vulnerabilities.
+
