@@ -12,3 +12,7 @@
 - **Timestamp**: 2025-11-13 10:48:34
 - **Note**: Differentiated startup initialization checks from ongoing health probes.
 
+### Update: configure Kubernetes liveness and readiness probes
+- **Timestamp**: 2025-11-21 15:02:10
+- **Note**: Differentiated startup initialization checks from ongoing health probes.
+
