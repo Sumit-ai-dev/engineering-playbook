@@ -16,3 +16,7 @@
 - **Timestamp**: 2025-11-08 14:43:16
 - **Note**: Replaced slow JSON serialization with binary protobuf encoding.
 
+### Update: define strongly typed gRPC contracts with protobuf v3
+- **Timestamp**: 2025-11-25 13:12:15
+- **Note**: Replaced slow JSON serialization with binary protobuf encoding.
+
