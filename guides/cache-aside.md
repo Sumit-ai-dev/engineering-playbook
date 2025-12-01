@@ -28,3 +28,7 @@
 - **Timestamp**: 2025-11-18 10:52:53
 - **Note**: Prevented cache stampede conditions by adding random jitter to expiration timers.
 
+### Update: establish multi-layer Redis caching with TTL jitter
+- **Timestamp**: 2025-12-01 10:13:22
+- **Note**: Prevented cache stampede conditions by adding random jitter to expiration timers.
+
