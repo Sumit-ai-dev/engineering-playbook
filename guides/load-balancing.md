@@ -16,3 +16,7 @@
 - **Timestamp**: 2025-11-18 20:34:44
 - **Note**: Benchmarked tail latencies under variable worker CPU loads.
 
+### Update: evaluate weighted round-robin vs least-connections algorithm
+- **Timestamp**: 2025-12-11 22:10:36
+- **Note**: Benchmarked tail latencies under variable worker CPU loads.
+
