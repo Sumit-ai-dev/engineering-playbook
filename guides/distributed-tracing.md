@@ -16,3 +16,7 @@
 - **Timestamp**: 2025-11-17 11:16:07
 - **Note**: Enabled end-to-end distributed span tracking across microservices.
 
+### Update: inject OpenTelemetry W3C trace context into HTTP headers
+- **Timestamp**: 2025-12-12 17:03:52
+- **Note**: Enabled end-to-end distributed span tracking across microservices.
+
