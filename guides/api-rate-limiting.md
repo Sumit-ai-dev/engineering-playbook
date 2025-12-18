@@ -12,3 +12,7 @@
 - **Timestamp**: 2025-11-20 16:00:42
 - **Note**: Configured burst allowance and refill rates to smooth out inbound traffic spikes.
 
+### Update: implement token bucket algorithm for public API gateways
+- **Timestamp**: 2025-12-18 22:01:41
+- **Note**: Configured burst allowance and refill rates to smooth out inbound traffic spikes.
+
