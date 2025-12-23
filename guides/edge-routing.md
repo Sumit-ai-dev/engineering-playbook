@@ -16,3 +16,7 @@
 - **Timestamp**: 2025-11-26 17:09:07
 - **Note**: Routed user traffic to geographically closest edge database replicas.
 
+### Update: deploy Cloudflare Workers for edge geolocation routing
+- **Timestamp**: 2025-12-23 20:22:56
+- **Note**: Routed user traffic to geographically closest edge database replicas.
+
