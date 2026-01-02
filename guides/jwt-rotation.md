@@ -24,3 +24,7 @@
 - **Timestamp**: 2025-12-17 16:08:52
 - **Note**: Separated public verification certs from private signing keys.
 
+### Update: implement RS256 asymmetric key rotation for JWT verification
+- **Timestamp**: 2026-01-02 15:09:07
+- **Note**: Separated public verification certs from private signing keys.
+
