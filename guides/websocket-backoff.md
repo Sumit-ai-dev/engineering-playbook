@@ -8,3 +8,7 @@
 - **Timestamp**: 2025-12-08 16:45:26
 - **Note**: Prevented connection storms during server restart cycles.
 
+### Update: add exponential backoff with full jitter to WebSocket client
+- **Timestamp**: 2026-01-02 22:26:48
+- **Note**: Prevented connection storms during server restart cycles.
+
