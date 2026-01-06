@@ -16,3 +16,7 @@
 - **Timestamp**: 2025-12-22 11:13:38
 - **Note**: Analyzed EXPLAIN ANALYZE logs to reduce index scan latency below 5ms.
 
+### Update: optimize compound B-Tree indexes on frequent query paths
+- **Timestamp**: 2026-01-06 13:23:17
+- **Note**: Analyzed EXPLAIN ANALYZE logs to reduce index scan latency below 5ms.
+
