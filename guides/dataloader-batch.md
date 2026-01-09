@@ -20,3 +20,7 @@
 - **Timestamp**: 2026-01-09 14:43:10
 - **Note**: Grouped entity lookups across concurrent resolver promises.
 
+### Update: implement DataLoader batching to eliminate N+1 queries
+- **Timestamp**: 2026-01-09 22:02:55
+- **Note**: Grouped entity lookups across concurrent resolver promises.
+
