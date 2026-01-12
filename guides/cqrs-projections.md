@@ -20,3 +20,7 @@
 - **Timestamp**: 2025-11-21 22:21:38
 - **Note**: Decoupled domain write operations from read-optimized data views.
 
+### Update: separate transactional writes from read-model projections
+- **Timestamp**: 2026-01-12 22:50:20
+- **Note**: Decoupled domain write operations from read-optimized data views.
+
