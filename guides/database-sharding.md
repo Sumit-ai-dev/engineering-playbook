@@ -20,3 +20,7 @@
 - **Timestamp**: 2025-12-26 19:03:47
 - **Note**: Outlined tenant-based vs hash-based distribution tradeoffs.
 
+### Update: document horizontal database sharding key selection
+- **Timestamp**: 2026-01-13 22:52:31
+- **Note**: Outlined tenant-based vs hash-based distribution tradeoffs.
+
