@@ -4,3 +4,7 @@
 - **Timestamp**: 2025-10-02 19:25:44
 - **Note**: Handled offset commits and rebalance listener callbacks gracefully.
 
+### Update: integrate Kafka consumer groups for distributed event ingestion
+- **Timestamp**: 2026-01-14 19:23:27
+- **Note**: Handled offset commits and rebalance listener callbacks gracefully.
+
