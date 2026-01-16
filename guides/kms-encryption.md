@@ -8,3 +8,7 @@
 - **Timestamp**: 2025-12-31 14:41:03
 - **Note**: Encrypted data encryption keys (DEKs) at rest and decrypted in memory only.
 
+### Update: implement envelope encryption with AWS KMS master keys
+- **Timestamp**: 2026-01-16 21:43:18
+- **Note**: Encrypted data encryption keys (DEKs) at rest and decrypted in memory only.
+
